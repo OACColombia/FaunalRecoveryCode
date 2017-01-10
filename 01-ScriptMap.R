@@ -34,8 +34,8 @@ Map <- ggplot(data,aes(x=Mean_Longitude,y=Mean_Latitude))+
   scale_y_continuous(limits = c(-60,35), expand = c(0, 0)) +
   annotate("text",x=-100, y=-10, label="Neotropic\n n = 46\n(M = 39, D = 6, S = 1)", size=8)+
   annotate("text",x=-5, y=-7, label="Afrotropic\n n = 8\n(M = 8)", size=8)+
-  annotate("text",x=80, y=-3, label="Indo Malay\n n = 8\n(M = 8)", size=8)+
-  annotate("text",x=150, y=8, label="Australasia\n n = 10\n(M = 6, S = 4)", size=8)+
+  annotate("text",x=80, y=-3, label="Indo Malay\n n = 10\n(M = 10)", size=8)+
+  annotate("text",x=150, y=8, label="Australasia\n n = 8\n(M = 4, S = 4)", size=8)+
   theme(legend.position = c(0.065, 0.5), 
         legend.title = element_blank( ),legend.background = element_rect( ), 
         legend.text = element_text(colour=rgb(0,0,0), size = 15),
