@@ -2158,7 +2158,7 @@ Fig3f<-f+
   annotate("text",x=2,y=-0.13,label=c("","17","",""), size=3.5)+
   annotate("text",x=3,y=0.08,label=c("","9","",""), size=3.5)+
   annotate("text",x=4,y=0.23,label=c("","1","",""), size=3.5)+
-  annotate("text",x=1,y=-1.02,label=c("","","5",""), size=3.5)+
+  annotate("text",x=1,y=-1.02,label=c("","","4",""), size=3.5)+
   annotate("text",x=2,y=-0.11,label=c("","","21",""), size=3.5)+
   annotate("text",x=3,y=0.17,label=c("","","8",""), size=3.5)+
   annotate("text",x=1,y=-0.13,label=c("","","","1"), size=3.5)+
