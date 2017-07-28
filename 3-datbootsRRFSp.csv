@@ -1,0 +1,17 @@
+,n,Bmean,2.50%,97.50%,FigurePart,Taxa,Succ.Stage
+dB1,8,-1.289,-1.793,-0.762,FSpecialists,Amphibians,ES
+dB2,18,-0.735,-1.126,-0.400,FSpecialists,Amphibians,YSF
+dB3,9,-0.407,-0.741,-0.047,FSpecialists,Amphibians,MSF
+dB4,2,-0.294,NA,NA,FSpecialists,Amphibians,OSF
+dB5,4,-1.062,NA,NA,FSpecialists,Reptiles,ES
+dB6,11,-0.920,-1.282,-0.581,FSpecialists,Reptiles,YSF
+dB7,8,-0.274,-0.523,-0.031,FSpecialists,Reptiles,MSF
+dB8,1,-0.916,NA,NA,FSpecialists,Reptiles,OSF
+dB9,6,-2.061,-3.077,-1.020,FSpecialists,Birds,ES
+dB10,23,-0.658,-0.966,-0.393,FSpecialists,Birds,YSF
+dB11,14,-0.370,-0.654,-0.140,FSpecialists,Birds,MSF
+dB12,1,0.000,NA,NA,FSpecialists,Birds,OSF
+dB13,2,-0.661,NA,NA,FSpecialists,Mammals,ES
+dB14,19,-0.413,-0.760,-0.051,FSpecialists,Mammals,YSF
+dB15,7,-0.177,-0.577,0.225,FSpecialists,Mammals,MSF
+dB16,3,-0.210,NA,NA,FSpecialists,Mammals,OSF
